@@ -3,7 +3,14 @@
 <head></head>
 <title>The Coronavirus Pandemic 2021 And Beyond!</title>
 <body>
-    
+    <nav>
+        <ul>
+            <li><ahref="introduction">Introduction</ahref></li>
+            <li><ahref="The Beginning Of The Coronavirus">Beginning Of The Coronavirus</a></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </nav>
     
     
     
